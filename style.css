@@ -38,7 +38,8 @@ body {
  }
  li a { 
    padding:10px;
-   text-decoration: none; 
+   text-decoration: none;
+   color:rgb(17, 39, 26);
  } 
 
  h1 {
